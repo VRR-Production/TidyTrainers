@@ -12,6 +12,9 @@ insert your email if you want below:
 Stephen Ouellette:
 stephen.r.ouellette@gmail.com / scoobz1234@stu.aii.edu
 
+Thea Moon:
+alethearia@gmail.com
+
 NAME
 EMAIL
 
