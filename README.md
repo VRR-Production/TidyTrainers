@@ -3,7 +3,7 @@ Production team for AI
 
 Welcome to our Git!
 
-https://discord.gg/CG8GZ
+https://discord.gg/xWg7AQk
 
 the above link is the invite link to the Discord chat..
 
