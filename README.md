@@ -15,6 +15,9 @@ stephen.r.ouellette@gmail.com / scoobz1234@stu.aii.edu
 Thea Moon:
 alethearia@gmail.com
 
+Kailani Piñon:
+kkp.kailanipinon@gmail.com / kailanipinon@stu.aii.edu
+
 NAME
 EMAIL
 
