@@ -1,0 +1,4 @@
+All grids are set to 2 meters across from the origin, 4 meters total.
+Grid lines are set every 10 centimeters.
+There should be no need to adjust anything special when it comes to exporting as far as scale is concerned.
+The box represents a normal human, 2 meters tall, 0.6 meters wide/deep, to act as a reference.
