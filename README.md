@@ -21,6 +21,9 @@ kkp.kailanipinon@gmail.com / kailanipinon@stu.aii.edu
 Tobias Wolfe:
 Epik@stu.aii.edu
 
+Damon Smith
+smithdam1@stu.aii.edu
+
 NAME
 EMAIL
 
