@@ -34,7 +34,7 @@ Of our 6 team programmers, 3 tend to lean towards Unreal while 3 tend to lean to
 Resources for both engines are fairly comprehensive. Unreal tends to have more comprehensive blueprint resources than C++ scripting, but the resources are available nonetheless.
 Unity documentation and resources are insanely extensive. 
 
-Additionally, the current game programming instructor is more familiar with Unity than Unreal.
+Additionally, the current game programming instructor has a greater knowledge pool of Unity than Unreal.
 
 
 Research:
