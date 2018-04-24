@@ -37,7 +37,7 @@ Unity documentation and resources are insanely extensive.
 Additionally, the current game programming instructor has a greater knowledge pool of Unity than Unreal.
 
 
-Research:
+## Research
 https://medium.com/vrtoken/unreal-engine-vs-unity-expert-opinion-and-analytics-from-vrt-world-developer-e5dd3039cf68)
 
 https://www.slant.co/versus/1047/5128/~unity_vs_unreal-engine-4
