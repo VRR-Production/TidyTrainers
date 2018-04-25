@@ -31,7 +31,8 @@ Unreal's default environment building tools are more extensive than Unity's (gri
 ## Editor & Tools
 > Unity
 * Unreal is fairly easy to pick up given a background in 3D sculpting software.
-* Unity's modular system allows for quicker prototyping. It also allows for greater ease-of-access for control over custom forms, editor interfaces, and tools.
+* Unity's modular system allows for quicker prototyping.
+* Unity also allows for greater ease-of-access for control over custom forms, editor interfaces, and tools. Custom inspector controls can be especially useful in team development when we only want specific variables to be manipulated or displayed in more visually intuitive ways.
 * Unreal's editor is considered slow in comparison to other engines (opening projects, rebuilding shaders, updating references, calculating lightmaps, etc.)
 
 ## Familiarity
