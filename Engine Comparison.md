@@ -1,21 +1,21 @@
-Unreal and Unity Comparison
-FEEL FREE TO ADD *YOUR* INPUT!
+#Unreal and Unity Comparison
+> FEEL FREE TO ADD *YOUR* INPUT & RESEARCH RESOURCES!
 
-# Performance
+## Performance
 > Unreal
 * C++ generally communicates faster with the system, but is a more complex language. 
 
-# Language
+## Language
 > Unity
 * C# is generally easier to comprehend from a developer's point of view, but might not be as quick as C++.
 
-# Visuals
+## Visuals
 > Unreal
 * Unreal undoubtly has a superior "out of the box" lighting environment. (V-Ray results are stunning)
 * Unity requires additional effort to achieve Unreal's level of visuals.
 * Unreal's shader and particle system is especially powerful.
 
-# VR Engine Optimization
+## VR Engine Optimization
 > Unreal
 * Unreal focuses more on optimization in VR than Unity. UE has built-in VR editors.
 * Unity requires the acquisition of outside plug-ins, but they're often easy to find.
