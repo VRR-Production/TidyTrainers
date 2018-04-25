@@ -2,37 +2,45 @@ Unreal and Unity Comparison
 FEEL FREE TO ADD *YOUR* INPUT!
 
 # Performance
-> Language
+> Unreal
 C++ generally communicates faster with the system, but is a more complex language. 
 C# is generally easier to comprehend from a developer's point of view, but might not be as quick as C++.
 
 # Visuals
-Unreal undoubtly has a superior "out of the box" lighting environment. (V-Ray results are stunning)
-Unity requires additional effort to achieve Unreal's level of visuals.
-
-Unreal's shader and particle system is especially powerful.
+> Unreal
+* Unreal undoubtly has a superior "out of the box" lighting environment. (V-Ray results are stunning)
+* Unity requires additional effort to achieve Unreal's level of visuals.
+* Unreal's shader and particle system is especially powerful.
 
 # VR Engine Optimization
-Unreal focuses more on optimization in VR than Unity. UE has built-in VR editors.
-Unity requires the acquisition of outside plug-ins, but they're often easy to find.
+> Unreal
+* Unreal focuses more on optimization in VR than Unity. UE has built-in VR editors.
+* Unity requires the acquisition of outside plug-ins, but they're often easy to find.
 
 Unreal build sizes tend to be large. A blank project will tend to build at a minimum of 200MB.
 Unreal's default environment building tools are more extensive than Unity's (grid snapping, complex in-scene model editing, etc).
 
 ## Development Reputation
-Some classify Unreal as a "AAA engine" and is often viewed as designer-oriented.
-Unity is often viewed as a "indie engine" and is often viewed as programmer-oriented.
+> Team Preference
+* Some classify Unreal as a "AAA engine" and is often viewed as designer-oriented.
+* Unity is often viewed as a "indie engine" and is often viewed as programmer-oriented.
 
-## Editor Tools
-Unreal is fairly easy to pick up given a background in 3D sculpting software.
-Unity's modular system allows for quicker prototyping. It also allows for greater ease-of-access for control over custom forms, editor interfaces, and tools.
+## Editor & Tools
+> Unity
+* Unreal is fairly easy to pick up given a background in 3D sculpting software.
+* Unity's modular system allows for quicker prototyping. It also allows for greater ease-of-access for control over custom forms, editor interfaces, and tools.
+* Unreal's editor is considered slow in comparison to other engines (opening projects, rebuilding shaders, updating references, calculating lightmaps, etc.)
 
 ## Familiarity
-Of our 6 team programmers, 3 tend to lean towards Unreal while 3 tend to lean towards Unreal.
+> Team Preference
+* Of our 6 team programmers, 3 tend to lean towards Unreal while 3 tend to lean towards Unreal.
+* Art team has greater familiarity with Unreal; lacks sufficient training in Unity
+* Current game programming instructor has a greater knowledge pool of Unity than Unreal
 
 ## Documentation
-Resources for both engines are fairly comprehensive. Unreal tends to have more comprehensive blueprint resources than C++ scripting, but the resources are available nonetheless.
-Unity documentation and resources are insanely extensive. Additionally, the current game programming instructor has a greater knowledge pool of Unity than Unreal.
+> Unity
+* Resources for both engines are fairly comprehensive. Unreal tends to have more comprehensive blueprint resources than C++ scripting, but the resources are available nonetheless.
+* Unity documentation and resources are insanely extensive. 
 
 
 ## Research
