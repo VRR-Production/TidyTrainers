@@ -1,5 +1,5 @@
 # UI Discussion 01 (week 04) | 23 April 2018
-The following is a record of the UI & UX concepts discussed during our week 4 class session. For additional clarification, ask Dasha, Kailani, Patron, Stephen, or Thea.
+The following is a record of the UI & UX concepts discussed during our week 4 class session. For additional clarification, reach out to Dasha, Kailani, Patron, Stephen, or Thea.
 
 ## Menus
 > Considerations for displaying useful information
