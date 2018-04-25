@@ -2,6 +2,7 @@
 The following is a record of the UI & UX concepts discussed during our week 4 class session. For additional clarification, ask Dasha, Kailani, Patron, Stephen, or Thea.
 
 ## Menus
+> Considerations for displaying useful information
 ### Main Menu
 * UI elements floating in space
 * Reach out and touch to interact with menu elements
@@ -32,6 +33,7 @@ The following is a record of the UI & UX concepts discussed during our week 4 cl
 * notable labels (floating UI, visible when within proximity): toxic chemicals, attention, etc
 
 ## Visual Guides
+> Considerations for how we intend to direct and guide trainees
 ### Interactions & Intended Results
 * holographic (shader) overlays indicating intended interactions and results
 * blue: pre-attempt hints/intentions
@@ -47,7 +49,7 @@ The following is a record of the UI & UX concepts discussed during our week 4 cl
 * possibly fade in and out
 
 ## Other
-> Additional Notes for non-User-Interface-related ideas.
+> Additional Notes for non-User-Interface-related ideas
 * vibration feedback (provides more tactile experience)
 * Haptic Glove (pressure feedback)
 * Carrying multiple items: load and tote items in a basket
