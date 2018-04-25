@@ -48,6 +48,7 @@ Examples: If placing towels, indicate holographic outline of intended stack size
 * possibly fade in and out
 
 > Additional Notes for non-User-Interface-related ideas.
+
 * vibration feedback (provides more tactile experience)
 * Haptic Glove (pressure feedback)
 * Carrying multiple items: load and tote items in a basket
