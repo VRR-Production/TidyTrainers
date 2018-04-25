@@ -3,8 +3,11 @@ FEEL FREE TO ADD *YOUR* INPUT!
 
 # Performance
 > Unreal
-C++ generally communicates faster with the system, but is a more complex language. 
-C# is generally easier to comprehend from a developer's point of view, but might not be as quick as C++.
+* C++ generally communicates faster with the system, but is a more complex language. 
+
+# Language
+> Unity
+* C# is generally easier to comprehend from a developer's point of view, but might not be as quick as C++.
 
 # Visuals
 > Unreal
