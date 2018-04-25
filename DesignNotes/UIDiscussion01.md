@@ -46,8 +46,8 @@ The following is a record of the UI & UX concepts discussed during our week 4 cl
 * UI indicating different room spaces
 * possibly fade in and out
 
+## Other
 > Additional Notes for non-User-Interface-related ideas.
-
 * vibration feedback (provides more tactile experience)
 * Haptic Glove (pressure feedback)
 * Carrying multiple items: load and tote items in a basket
