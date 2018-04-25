@@ -1,17 +1,20 @@
 # Unreal and Unity Comparison
-WE ENCOURAGE YOU TO ADD BOTH *YOUR* RESEARCH RESOURCES & INPUT!
+WE ENCOURAGE YOU TO ADD BOTH YOUR RESEARCH RESOURCES & INPUT!
 
 ## Performance
 > Unreal
-* C++ generally communicates faster with the system, but is a more complex language. 
+* C++ generally communicates faster with the system
 
 ## Language
 > Unity
+* C++ is a powerful, but complex language
 * C# is generally easier to comprehend from a developer's point of view, but might not be as quick as C++.
+* Unity's C# comes with some pre-built functions that speed development along (Collisions, Update, etc.)
 
 ## Visuals
 > Unreal
-* Unreal undoubtly has a superior "out of the box" lighting environment. (V-Ray results are stunning)
+* Unreal undoubtly has a superior "out of the box" lighting environment.
+* V-Ray results are stunning
 * Unity requires additional effort to achieve Unreal's level of visuals.
 * Unreal's shader and particle system is especially powerful.
 
