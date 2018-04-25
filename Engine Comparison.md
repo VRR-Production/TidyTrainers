@@ -1,5 +1,5 @@
 # Unreal and Unity Comparison
-> FEEL FREE TO ADD *YOUR* INPUT & RESEARCH RESOURCES!
+WE ENCOURAGE YOU TO ADD BOTH *YOUR* RESEARCH RESOURCES & INPUT!
 
 ## Performance
 > Unreal
