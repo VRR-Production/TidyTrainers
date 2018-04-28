@@ -24,6 +24,9 @@ Epik@stu.aii.edu
 Damon Smith
 smithdam1@stu.aii.edu
 
+Jerryd Perry:
+Jerrydwperry@gmail.com / JerrydPerry@stu.aii.edu
+
 NAME
 EMAIL
 
