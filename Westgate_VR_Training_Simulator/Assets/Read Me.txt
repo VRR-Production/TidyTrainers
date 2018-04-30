@@ -89,3 +89,13 @@ for example: "mbsushwk" would be a poor naming convention for a Master Bathroom 
 dont be afraid to name that object Master_Bathroom_Shower_Hot_Water_Knob  <--- specific i know, but you get the point...
 ************************************************************************************************************
 
+using unity blahblah
+
+namespace WestgateVRTS{
+
+public class asdlfkjasdlfkjads : mono{
+
+
+
+}
+}
