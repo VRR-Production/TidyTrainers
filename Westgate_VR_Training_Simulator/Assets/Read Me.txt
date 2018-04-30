@@ -1,0 +1,91 @@
+**********************************************************************************************************
+**********************************************************************************************************
+WESTGATE VIRTUAL REALITY TRAINING SIMULATOR READ ME!
+**********************************************************************************************************
+**********************************************************************************************************
+
+if you take a look at our file structure, you'll see three main folders
+
+1. Resources
+2. Scenes
+3. Scripts
+
+Resources and Scripts will house multiple subsequent folders, that contain specific data.
+
+Resources file structure is as follows:
+
+1. Materials
+	- here all Materials will be placed, mainly shaders created within unity will go here...
+2. Models
+	- all models brought into the project will be placed here... textures will not go here!
+3. Prefabs
+	- any prefab objects created will be placed in here...
+4. SoundFX
+	- all sounds and other FX files will be placed in here...
+5. Sprites
+	- all sprites individual and/or sprite sheets go here...
+6. Textures
+	- all your textures for the models will go in here... 
+	- you may add aditional folders that utilize the Exact same name as the model, and place your textures in that folder
+
+Scenes file structure is as follows:
+
+	- all scenes will be placed in this base folder, scene named Main is reserved for the title screen...
+
+Scripts file structure is as follows:
+ ** the Master Scripts folder and the Editor folder names CAN NOT be changed. you will break the application if you do so **
+
+1. Application Manager Scripts
+	- here all the application scripts go here.. think GameManager stuff...
+2. Editor
+	- here is where we put our Custom Inspector scripts...
+3. Item Scripts
+	- I named this item, but we can change this. this is where we will put our scripts that handle object interactions...
+4. Master Scripts
+	- all master scripts will be placed here, each sub folder in the Scripts file structure will have a corresponding master script in this folder...
+5. User Scripts
+	- i named this User as "Player" doesnt seem to fit. all scripts that are user related, like User_Controller or User_ObjectInteraction ... ect...
+
+
+***
+Utilize empty game objects to keep the Hierarchy clean and neat. this application will become a beast, so we need to tame it as much as possible...
+***
+
+PROGRAMMERS:::::::::::::::::::::::::::::::::::::::::::
+
+NAMESPACE::
+*****************************************************
+utilize the namespace WestgateVRTS in all your scripts
+*****************************************************
+
+SCRIPTS NAMING CONVENTIONS::
+************************************************************************************************************
+all scripts will be named as follows : Identifier_Type    "User_Controls"  or   "Dishes_Wash"
+remember that all these scripts will have a corresponding master script  "User_Master"   or  "Dishes_Master"
+************************************************************************************************************
+
+VARIABLE NAMING CONVENTIONS::
+************************************************************************************************************
+all variables will utilize camel case naming conventions : "userSpeed"  or  "someSortOfVariableUsedToDoSomething"
+variables should be named so they are clearly understood by any other group members if they are to read your code...
+variables such as shorthand for things that you may only know are not to be used.
+************************************************************************************************************
+
+FUNCTION NAMING CONVENTIONS::
+************************************************************************************************************
+all functions will utilize the following naming convention :  "Jump" or "AFunctionOrMethodThatDoesSomething"
+functions/methods should be named so they are clearly understood by any other group members if they are to read your code.
+try to place your functions/methods in an order that is easily understood by someone walking through your scripts...
+don't be afraid to give your functions/methods lengthy name if thats what it takes to understand whats going on...
+************************************************************************************************************
+
+MODELERS:::::::::::::::::::::::::::::::::::::::::::::
+
+NAMING CONVENTIONS::
+************************************************************************************************************
+make sure once you decide a naming convention everyone sticks with it. name your models something we programmers
+will easily understand what the model is. as well as anyone else trying to find that object.
+for example: "mbsushwk" would be a poor naming convention for a Master Bathroom Stand Up Shower Hot Water Knob.
+dont be afraid to name that object Master_Bathroom_Shower_Hot_Water_Knob  <--- specific i know, but you get the point...
+************************************************************************************************************
+
