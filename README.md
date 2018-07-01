@@ -37,8 +37,8 @@ category_assetName_Version.png
 
 ex: checklist_kitchenSink_1.png, wristband_clipboard_1.png, screen_warning_1.png
 
-`note: name of asset, camelcase; asset number, starting at 1
+`note: name of asset, camelcase; asset number, starting at 1`
 
-note: size 500px * 500px or larger`
+`note: size 500px * 500px or larger`
 
 *For a complete list of deliverables naming conventions beyond UI, review the [★Tidy Trainers Game Design Document★.docx](https://drive.google.com/open?id=1JfH-lJwL_DV4JUY7JDna6ZUCbfMSl24Pqtl_IIkbNKo "Link to game design document - Click to open!")*
