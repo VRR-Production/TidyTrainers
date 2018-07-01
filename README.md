@@ -13,12 +13,14 @@ Note, this document will evolve and continuously be updated throughout the proje
 ### General Communication
 Looking to get a hold of a team member? While our primary communication tool is Discord, be aware that e-mail and Trello are also available! If you have any comments, questions, or concerns, don't be afraid to reach out to the team. Just please be mindful of who you intend to contact and the manner in which you discuss matters. Be kind and considerate!
 
+`note: Names with diamonds (♦) indicate team members associated with leadership roles. If you're feeling lost or need direction, don't hesitate to reach out to these members. They'll assist you to the best of their ability!`
+
 `Discord Invitation:`
 >https://discord.gg/xWg7AQk
 
 `Email Addresses / Trello / Discord (alphabetically by first name):`
 
-Nikki Dunsire (instructor)
+♦ Nikki Dunsire (instructor)
 > ndunsire@stu.aii.edu / Trello-Not-Applicable / ndunsire
 
 
@@ -37,16 +39,16 @@ Damon Smith
 Dasha Moyer
 > dashamoyer@stu.aii.edu / dashamoyer / Dasha
 
-Dominique Fitowski
+♦ Dominique Fitowski
 > domino32@stu.aii.edu / dominique826 / domino32
 
-Haneen Bakhashwain
+♦ Haneen Bakhashwain
 > HBakha@stu.aii.edu / hbakha / Haneen
 
 Jerryd Perry
 > Jerrydwperry@gmail.com , JerrydPerry@stu.aii.edu / jerrydperry / Jerryd
 
-Kailani Piñon:
+♦ Kailani Piñon:
 > kkp.kailanipinon@gmail.com , kailanipinon@stu.aii.edu / kailanipinon / Kailani
 
 Navarre Packham
@@ -58,11 +60,11 @@ Patron Derbysher
 Richard Paskvan
 > rapaskvan@stu.aii.edu / richardpaskvan / Rich Paskvan
 
-Stephen Ouellette
+♦ Stephen Ouellette
 > stephen.r.ouellette@gmail.com , scoobz1234@stu.aii.edu / stephenouellette / Stephen
 
-Thea Moon
+♦ Thea Moon
 > alethearia@gmail.com , alethearia@stu.aii.edu / alethearia / Thea
 
-Toby Wolfe
+♦ Toby Wolfe
 > Epik@stu.aii.edu / wolfe170 / Toby
