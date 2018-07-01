@@ -7,6 +7,7 @@ VR&R Game Production Team
 This particular branch is designated for 3D assets. The folders contain the following content:
 
 > Models
+
 These contain completed filmbox (.fbx) assets that are intended to be incorporated into the simulation. .fbx files stored here indicate that the model is ready to be passed to the programming team.
 
 This means that either **Toby or Dominique** have deemed, at the bare minimum, that the model is in a finished state:
@@ -20,6 +21,7 @@ The following are not necessary for initial integration approval, and are encour
 * rigs and animations
 
 > Team Member Files
+
 **NEW 7/1/2018**
 After carefully considering the workflow during Game Pre-Production, individual files are now active in order to improve our team production efforts. Individual files are meant to improve 2 primary areas:
 
@@ -40,11 +42,13 @@ The first contains geometry ready for integration. Going forward into the remain
 Clean, consistent naming conventions decreases time spent searching for assets and saves both valueable time and energy for the team as a whole. Help us out by following the approved conventions below:
 
 > Models (Filmbox/.fbx) Files
+
 assetName_additionAssetDescriptionIfNecessary_Version.fbx
 
 examples: bathroomCabinet_Counter_1, bathroomDoor_1, sprayBottle_1, bathroomLights_1, bathroomTutorialScene_1, mirror_1
 
 > Models (Filmbox/.fbx) Files
+
 assetName_additionAssetDescriptionIfNecessary_Version_TextureType.tga
 
 examples: bathroomCounter_1_AO.tga, cleaningCaddy_1_AlbedoTransparency.tga, mirror_1_Normal.tga, rag_1_MetallicSmoothness.tga
