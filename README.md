@@ -17,36 +17,52 @@ Looking to get a hold of a team member? While our primary communication tool is 
 >https://discord.gg/xWg7AQk
 
 `Email Addresses / Trello / Discord (alphabetically by first name):`
+
 Nikki Dunsire (instructor)
 > ndunsire@stu.aii.edu / Trello-Not-Applicable / ndunsire
 
+
 Annie Johnson
 > johnsanne@stu.aii.edu / johnsanne / Annie
+
 Aziz Alkhelaiwi
 > M4d@stu.aii.edu / azizalkhelaiwi1 / hoeziz
+
 Chris Snegireff
 > chris.snegireff@stu.aii.edu / chris25590478 / Snergelton
+
 Damon Smith
 > smithdam1.stu.aii.edu / smithdamon / smithdamon
+
 Dasha Moyer
 > dashamoyer@stu.aii.edu / dashamoyer / Dasha
+
 Dominique Fitowski
 > domino32@stu.aii.edu / dominique826 / domino32
+
 Haneen Bakhashwain
 > HBakha@stu.aii.edu / hbakha / Haneen
+
 Jerryd Perry
 > Jerrydwperry@gmail.com , JerrydPerry@stu.aii.edu / jerrydperry / Jerryd
+
 Kailani Piñon:
 > kkp.kailanipinon@gmail.com , kailanipinon@stu.aii.edu / kailanipinon / Kailani
+
 Navarre Packham
 > npackham@stu.aii.edu / navarrepackham / Erravan
+
 Patron Derbysher
 > PatronPPatron@stu.aii.edu / guardian_patron / Guardian Patron
+
 Richard Paskvan
 > rapaskvan@stu.aii.edu / richardpaskvan / Rich Paskvan
+
 Stephen Ouellette
 > stephen.r.ouellette@gmail.com , scoobz1234@stu.aii.edu / stephenouellette / Stephen
+
 Thea Moon
 > alethearia@gmail.com , alethearia@stu.aii.edu / alethearia / Thea
+
 Toby Wolfe
 > Epik@stu.aii.edu / wolfe170 / Toby
