@@ -1,23 +1,58 @@
-# AIProduction
-Production team for AI
+# Modeling, Texturing, and Animation
 
-Welcome to our Git!
+VR&R Game Production Team
 
-https://discord.gg/xWg7AQk
+### About this Branch
 
-the above link is the invite link to the Discord chat..
+This particular branch is designated for 3D assets. The folders contain the following content:
 
-insert your email if you want below:
+> Models
+These contain completed filmbox (.fbx) assets that are intended to be incorporated into the simulation. .fbx files stored here indicate that the model is ready to be passed to the programming team.
 
-Stephen Ouellette:
-stephen.r.ouellette@gmail.com / scoobz1234@stu.aii.edu
+This means that either **Toby or Dominique** have deemed, at the bare minimum, that the model is in a finished state:
 
-Thea Moon:
-alethearia@gmail.com
+* geometry appears visually complete
+* UV maps are setup for texture artists
 
-Kailani Piñon:
-kkp.kailanipinon@gmail.com / kailanipinon@stu.aii.edu
+The following are not necessary for initial integration approval, and are encouraged to be added as they are completed later down the line:
 
-NAME
-EMAIL
+* complete texture sets (albedo/transparency, ambient occlusion, metallic/smoothness, normal)
+* rigs and animations
+
+> Team Member Files
+**NEW 7/1/2018**
+After carefully considering the workflow during Game Pre-Production, individual files are now active in order to improve our team production efforts. Individual files are meant to improve 2 primary areas:
+
+1. Focus
+It's easy to get lost with all the resources and assets bouncing around throughout development. This hopefully gives team members a definite space for themselves within the repository.
+
+2. Accountability
+This is meant to provide a more evident visual for contributions made in this particular branch. It's intended to help peers gauge their output and adjust as necessary, whether that means picking up the slack or slowing down and delegating assignments.
+
+Additionally, each team file contains two standard folders: `♥ Completed` and `Development`. 
+
+The first contains geometry ready for integration. Going forward into the remaining production period, these require approval from either **Toby or Dominique** before being uploaded to the `♥ Completed` folder. 
+
+`Development`, on the other hand, contains whatever assets or resources you deem necessary. Use this as a personal folder for notes, references, or other files you think you'll need in order to develop your models. Note that Maya ASCII (.ma) files don't allow for direct downloads within GitHub, thus if you're considering uploading working Maya files, use Maya binary (.mb). You're not required to use this folder, but it's present should you need it.
+
+### Naming Conventions
+
+Clean, consistent naming conventions decreases time spent searching for assets and saves both valueable time and energy for the team as a whole. Help us out by following the approved conventions below:
+
+> Models (Filmbox/.fbx) Files
+assetName_additionAssetDescriptionIfNecessary_Version.fbx
+
+examples: bathroomCabinet_Counter_1, bathroomDoor_1, sprayBottle_1, bathroomLights_1, bathroomTutorialScene_1, mirror_1
+
+> Models (Filmbox/.fbx) Files
+assetName_additionAssetDescriptionIfNecessary_Version_TextureType.tga
+
+examples: bathroomCounter_1_AO.tga, cleaningCaddy_1_AlbedoTransparency.tga, mirror_1_Normal.tga, rag_1_MetallicSmoothness.tga
+
+**ADDITIONAL NOTES**
+
+*While it might seem odd to note version 1 per item, the unforeseeable future might warrant us to create another version of the same object. While we can't account for everything, it is nice to be prepared. Thus bear with the convention and remember to add the appropriate version number.*
+
+*For a complete list of deliverables naming conventions, review the [★Tidy Trainers Game Design Document★.docx](https://drive.google.com/open?id=1JfH-lJwL_DV4JUY7JDna6ZUCbfMSl24Pqtl_IIkbNKo "Link to game design document - Click to open!")*
+
 
