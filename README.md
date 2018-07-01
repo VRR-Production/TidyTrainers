@@ -26,9 +26,11 @@ The following are not necessary for initial integration approval, and are encour
 After carefully considering the workflow during Game Pre-Production, individual files are now active in order to improve our team production efforts. Individual files are meant to improve 2 primary areas:
 
 1. Focus
+
 It's easy to get lost with all the resources and assets bouncing around throughout development. This hopefully gives team members a definite space for themselves within the repository.
 
 2. Accountability
+
 This is meant to provide a more evident visual for contributions made in this particular branch. It's intended to help peers gauge their output and adjust as necessary, whether that means picking up the slack or slowing down and delegating assignments.
 
 Additionally, each team file contains two standard folders: `♥ Completed` and `Development`. 
