@@ -2,6 +2,10 @@
 
 VR&R Game Production Team
 
+Lead: Stephen
+
+Second: Kailani
+
 ### About this Branch
 
 The Programming branch is intended to store scripts, packages, and other parts and pieces of functionality. The folders contain the following content:
@@ -24,11 +28,7 @@ It's easy to get lost with all the resources and assets bouncing around througho
 
 This is meant to provide a more evident visual for contributions made in this particular branch. It's intended to help peers gauge their output and adjust as necessary, whether that means picking up the slack or slowing down and delegating assignments.
 
-Additionally, each team file contains two standard folders: ♥ Completed and Development.
-
-The first contains functional assets ready for integration. Going forward into the remaining production period, these require approval from **Stephen or Kailani** in addition to having been tested and reviewed by 1 additional team member outside of the programming group. This can either be another team member or a third-party playtester.
-
-Development, on the other hand, contains whatever assets or resources you deem necessary. Use this as a personal folder for notes, references, or other files you think you'll need in order to develop your assets. You're not required to use this folder, but it's present should you need it.
+**ONLY UPLOAD UNITY-READY ASSETS (scripts, packages, etc)**
 
 ### Sunday Check-ins
 
@@ -89,4 +89,4 @@ PrimaryIdentifier_name
 
 examples: "PFX_confetti.unitypackage", "UX_collisionActivity.unitypackage", "SFX_audioProximity.unitypackage"
 
-*For a complete list of deliverables naming conventions beyond the programming scope, review the [★Tidy Trainers Game Design Document★.docx](https://drive.google.com/open?id=1JfH-lJwL_DV4JUY7JDna6ZUCbfMSl24Pqtl_IIkbNKo "Link to game design document - Click to open!")*
+*For more design notes, review the [★Tidy Trainers Game Design Document★.docx](https://drive.google.com/open?id=1JfH-lJwL_DV4JUY7JDna6ZUCbfMSl24Pqtl_IIkbNKo "Link to game design document - Click to open!")*
