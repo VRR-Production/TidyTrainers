@@ -4,7 +4,7 @@ VR&R Game Production Team
 
 ### About this Branch
 
-Audible assets are stored here with the intention of incorporating them into the simulation. This particar branch is slightly different than most asset branches -- it's primarily being used as a sound library.
+Audible assets are stored here with the intention of incorporating them into the simulation.
 
 NEW 7/1/2018 After carefully considering the workflow during Game Pre-Production, individual files are now active in order to improve our team production efforts. Individual files are meant to improve 2 primary areas:
 
@@ -16,6 +16,7 @@ This is meant to provide a more evident visual for contributions made in this pa
 
 Unlike other asset branches, there are not "Completed" or "Development" folders. Upload your audio files into your designated folder. These files will be reviewed by **Haneen** for final approval. She'll be integrating the approved files into the `Unity Source File` branch.
 
+**ONLY UPLOAD FILES THAT ARE READY FOR UNITY INTEGRATION**
 
 ### Audio Resources
 
@@ -55,4 +56,4 @@ note: Unity supports the following audio extensions
 `        
 	ex: runningWater_faucet_1.wav, trigger_sprayBottle.mp3
 
-*For a complete list of deliverables naming conventions beyond the sound effects scope, review the [★Tidy Trainers Game Design Document★.docx](https://drive.google.com/open?id=1JfH-lJwL_DV4JUY7JDna6ZUCbfMSl24Pqtl_IIkbNKo "Link to game design document - Click to open!")*
+*For more design notes, review the [★Tidy Trainers Game Design Document★.docx](https://drive.google.com/open?id=1JfH-lJwL_DV4JUY7JDna6ZUCbfMSl24Pqtl_IIkbNKo "Link to game design document - Click to open!")*
