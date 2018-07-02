@@ -49,7 +49,7 @@ assetName_additionAssetDescriptionIfNecessary_Version.fbx
 
 examples: bathroomCabinet_Counter_1, bathroomDoor_1, sprayBottle_1, bathroomLights_1, bathroomTutorialScene_1, mirror_1
 
-> Models (Filmbox/.fbx) Files
+> Texture (Targa/.tga) files
 
 assetName_additionAssetDescriptionIfNecessary_Version_TextureType.tga
 
