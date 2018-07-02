@@ -16,8 +16,6 @@ It's easy to get lost with all the resources and assets bouncing around througho
 2. Accountability
 This is meant to provide a more evident visual for contributions made in this particular branch. It's intended to help peers gauge their output and adjust as necessary, whether that means picking up the slack or slowing down and delegating assignments.
 
-Unlike other asset branches, there are not "Completed" or "Development" folders. Upload your audio files into your designated folder. These files will be reviewed by **Haneen** for final approval. She'll be integrating the approved files into the `Unity Source File` branch.
-
 **ONLY UPLOAD FILES THAT ARE READY FOR UNITY INTEGRATION**
 
 ### Audio Resources
