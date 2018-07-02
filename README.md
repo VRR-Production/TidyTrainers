@@ -1,6 +1,8 @@
 # UI Design
 VR&R Game Production Team
 
+Lead: Thea
+
 ### About this Branch
 
 This branch is intended to contain user interface assets in addition to user experience notes. The folders contain the following:
@@ -21,11 +23,7 @@ It's easy to get lost with all the resources and assets bouncing around througho
 2. Accountability
 This is meant to provide a more evident visual for contributions made in this particular branch. It's intended to help peers gauge their output and adjust as necessary, whether that means picking up the slack or slowing down and delegating assignments.
 
-Additionally, each team file contains two standard folders: `♥ Completed` and `Development`.
-
-The first contains sprites ready for integration. Going forward into the remaining production period, these require approval from **Thea** before being uploaded to the `♥ Completed` folder, in addition to feedback from at least 2 other people. This can be another team member or third-party consultants. 
-
-`Development`, on the other hand, contains composites and whatever assets or resources you deem necessary (photoshop files, illusrator files, sketches, references, notes, etc). Be sure to upload composites (design proposals/concepts) to your personal `Development` folder ***and*** Discord.
+**ONLY UPLOAD UNITY-READY ASSETS. Post composites (design proposals/development) in Discord.**
 
 ### Naming Conventions
 
@@ -41,4 +39,4 @@ ex: checklist_kitchenSink_1.png, wristband_clipboard_1.png, screen_warning_1.png
 
 `note: size 500px * 500px or larger`
 
-*For a complete list of deliverables naming conventions beyond UI, review the [★Tidy Trainers Game Design Document★.docx](https://drive.google.com/open?id=1JfH-lJwL_DV4JUY7JDna6ZUCbfMSl24Pqtl_IIkbNKo "Link to game design document - Click to open!")*
+*For more design information, review the [★Tidy Trainers Game Design Document★.docx](https://drive.google.com/open?id=1JfH-lJwL_DV4JUY7JDna6ZUCbfMSl24Pqtl_IIkbNKo "Link to game design document - Click to open!")*
