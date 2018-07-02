@@ -2,6 +2,10 @@
 
 VR&R Game Production Team
 
+Lead: Toby
+
+Second: Dominique
+
 ### About this Branch
 
 This particular branch is designated for 3D assets. The folders contain the following content:
@@ -33,11 +37,7 @@ It's easy to get lost with all the resources and assets bouncing around througho
 
 This is meant to provide a more evident visual for contributions made in this particular branch. It's intended to help peers gauge their output and adjust as necessary, whether that means picking up the slack or slowing down and delegating assignments.
 
-Additionally, each team file contains two standard folders: `♥ Completed` and `Development`. 
-
-The first contains geometry ready for integration. Going forward into the remaining production period, these require approval from either **Toby or Dominique** before being uploaded to the `♥ Completed` folder. 
-
-`Development`, on the other hand, contains whatever assets or resources you deem necessary. Use this as a personal folder for notes, references, or other files you think you'll need in order to develop your models. Note that Maya ASCII (.ma) files don't allow for direct downloads within GitHub, thus if you're considering uploading working Maya files, use Maya binary (.mb). You're not required to use this folder, but it's present should you need it.
+**ONLY UPLOAD ASSETS READY TO BE INTEGRATED INTO THE TIDY TRAINERS APPLICATION**
 
 ### Naming Conventions
 
@@ -59,6 +59,6 @@ examples: bathroomCounter_1_AO.tga, cleaningCaddy_1_AlbedoTransparency.tga, mirr
 
 *While it might seem odd to note version 1 per item, the unforeseeable future might warrant us to create another version of the same object. While we can't account for everything, it is nice to be prepared. Thus bear with the convention and remember to add the appropriate version number.*
 
-*For a complete list of deliverables naming conventions, review the [★Tidy Trainers Game Design Document★.docx](https://drive.google.com/open?id=1JfH-lJwL_DV4JUY7JDna6ZUCbfMSl24Pqtl_IIkbNKo "Link to game design document - Click to open!")*
+*For additional design information, review the [★Tidy Trainers Game Design Document★.docx](https://drive.google.com/open?id=1JfH-lJwL_DV4JUY7JDna6ZUCbfMSl24Pqtl_IIkbNKo "Link to game design document - Click to open!")*
 
 
