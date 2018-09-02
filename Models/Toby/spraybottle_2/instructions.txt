@@ -1,0 +1,3 @@
+the trigger is seperate for animation purposes
+
+there is transparency

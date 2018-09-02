@@ -1,0 +1,1 @@
+shampoo and conditioner both use the shampoo_1 fbx file, just different textures
