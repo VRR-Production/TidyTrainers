@@ -2,7 +2,7 @@
 
 VR&R Game Production Team
 
-Lead: Haneen
+Lead: Jerryd
 
 ### About this Branch
 
