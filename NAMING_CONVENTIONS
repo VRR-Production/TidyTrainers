@@ -1,0 +1,69 @@
+# Deliverables Naming Conventions
+## Visual Assets
+►.fbx (Filmbox assets) Model Files
+assetName_additionalAssetDescriptionIfNecessary_Version.fbx
+note: name of asset, camelcase; asset number, starting at 1
+ex: bathroomCabinet_Counter_1, bathroomDoor_1, mirror_1, sprayBottle_1
+
+
+►.tga (Targa) Texture Files
+	assetName_additionalAssetDescriptionIfNecessary_Version_TextureType.tga
+	note: name of asset, camelcase; asset number, starting at 1; texture type, Pascal
+	- texture types: 
+		- AO (Ambient Occlusion)
+- AlbedoTransparency 
+- MetallicSmooth
+- Normal
+ex: bathroomCounter_1_AO.tga, cleaningCaddy_1_AlbedoTransparency.tga
+
+►.png (Portable Network Graphics) Sprite Files
+	category_assetName_Version
+	note: name of asset, camelcase; asset number, starting at 1
+	note: size 500px * 500px or larger
+ex: checklist_kitchenSink_1, wristband_clipboard_1, screen_warning_1
+
+
+# Programming Assets
+►Unity Scripts: Namespace Conventions
+utilize the namespace WestgateVRTS in all your scripts
+example: namespace WestgateVRTS { //your class behavior }
+
+►Unity Scripts: Script (Class) Name Conventions
+Identifier_Type    
+examples: "User_Controls", "Dishes_Wash"
+note: scripts will have corresponding master scripts  
+("User_Master", "Dishes_Master")
+
+►Unity Scripts: Variable Naming Conventions
+utilize Camel Case
+examples: “userSpeed", "someSortOfVariableUsedToDoSomething"
+note: Variables names must be clearly and coherently communicate its intention. 
+Shorthand for things that you may only know are not to be used.
+
+►Unity Scripts: Functions & Methods Naming Conventions
+utilize Pascal Case  
+examples: "Jump", "AFunctionOrMethodThatDoesSomething"
+note: Functions and methods should be named so they are clearly understood by any other group members if they are to read your code.
+note: Place functions & methods in an order that is easily understood by someone walking through your scripts.
+note: Don't be afraid to give your functions/methods lengthy name if that’s what it takes to understand what’s going on
+
+►Unity Packages
+PrimaryIdentifier_name
+examples: "PFX_confetti.unitypackage", "UX_collisionActivity.unitypackage", "SFX_audioProximity.unitypackage"
+
+
+
+## Audio Assets
+►Audio files
+	assetSound_associatedObjectIfNecessary_Version.extension
+	note: name of asset, camel case
+note: Unity supports the following audio extensions
+		- .mp3 MPEG layer 3
+		- .oog Ogg Vorbis
+		- .wav Microsoft Wave
+		- .aiff / .aif Audio Interchange File Format
+		- .mod Ultimate Soundtracker module
+		- .it Impulse Tracker module
+		- .s3m Scream Tracker module
+		- .xm FastTracker 2 module
+	ex: runningWater_faucet_1.wav, trigger_sprayBottle.mp3
