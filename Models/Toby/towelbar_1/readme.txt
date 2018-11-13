@@ -1,0 +1,1 @@
+for bathroom. hanging towels will fit pretty much exactly on this
