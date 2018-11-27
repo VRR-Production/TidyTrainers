@@ -1,0 +1,1 @@
+dirty textures included in each folder for each window
