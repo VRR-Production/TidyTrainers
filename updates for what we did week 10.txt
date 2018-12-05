@@ -1,0 +1,60 @@
+WHATS LEFT TO ADD
+
+
+Toby's folder
+*************
+towel bow and textures
+dirty kitchen floor texture
+updated all blueprint wall and ceiling textures
+THERE ISNT A TEXTURE ON THE TUTORIAL HALLWAY(PUT IT ON THE MODEL, IT EXISTS)
+patio table and textures
+
+
+Domino's Folder
+*************
+patio chair and textures
+placemant with dirty textures
+potholder with textures
+toilet dirty textures
+lounge chair and textures
+coiled cord for coffee machine
+toilet paper holder and textures and dirty textures
+lrg dirty plate textures
+outdoor light and textures
+dome light and textures
+
+
+Annie's folder
+**************
+patio railing and texture
+signage
+blowdryer texture
+dirty texture for wine glass, goblet and kitchen counter
+kitchen countertop and cabinets textures are redone
+kitchen countertop dirty textures
+
+Jerryd's folder
+**************
+tub and tub mirror dirty textures
+shower with clean and dirty textures
+tv center dirty
+sink dirty
+rag varients - dry/wwet/dirty
+
+
+
+Haneen's Folder
+**************
+iron board and textures
+closet shelf (both living and bed) and textures
+
+
+
+Blakes's stuff (in default modeling folder)
+*****************************************
+spray bottle color variants
+
+
+Patron's Folder
+****************
+Vents and textures
